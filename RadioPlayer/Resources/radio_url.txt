@@ -1,0 +1,17 @@
+﻿http://stream.rockradio.si:9034
+http://stream.rockradio.si:9036
+http://stream.rockradio.si:9040
+http://stream.rockradio.si:9042
+http://stream2.radiocenter.si:8000
+http://stream3.radiocenter.si:9020
+http://stream3.radiocenter.si:8058
+http://secureonair.krone.at/kronehit-fresh.mp3
+http://secureonair.krone.at/kronehit-dance.mp3
+http://live.radio1.si/Radio1PR
+http://live.antenne.at/as
+http://live.antenne.at/clr
+http://live.antenne.at/fnh
+http://live.antenne.at/ihv
+http://live.antenne.at/ost
+http://live.antenne.at/sun
+http://live.antenne.at/udg
